@@ -1,0 +1,19 @@
+name: db_viewer
+description: A new Flutter project.
+version: 1.0.3
+homepage: https://github.com/vanlooverenkoen/db_viewer/db_viewer
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+flutter:
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.3.2+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
